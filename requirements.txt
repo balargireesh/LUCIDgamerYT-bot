@@ -1,0 +1,5 @@
+aiohttp
+discord
+youtube_dl
+google-api-python-client
+PyNaCl 
